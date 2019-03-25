@@ -1,0 +1,8 @@
+{
+    "name": "bilal/slim",
+    "description": "composer require slim/slim",
+    "type": "slim/smim",
+    "require": {
+        "slim/slim": "slim/slim"
+    }
+}
